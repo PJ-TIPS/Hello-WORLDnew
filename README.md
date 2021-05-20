@@ -1,2 +1,3 @@
 # Hello-WORLDnew
-Just another repository
+
+Bon dia, my name is Pete and I'm a fan of Python.
